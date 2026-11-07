@@ -1,0 +1,9 @@
+{
+  "id": "witch_house",
+  "name": "女巫屋",
+  "world_id": "arkham_1926",
+  "connected_to": ["central_dock", "orne_library"],
+  "content": "下游一栋没有屋顶的石屋，1770 年代烧过，焦痕不长苔。地面有一圈台阶俯视图形状的凹槽。",
+  "keywords": ["女巫屋", "废墟", "凹槽", "数数声"],
+  "tier": "background"
+}

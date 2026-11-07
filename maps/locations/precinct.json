@@ -1,0 +1,9 @@
+{
+  "id": "precinct",
+  "name": "阿卡姆警局",
+  "world_id": "arkham_1926",
+  "connected_to": ["graves_shop", "advertiser"],
+  "content": "1901 年的石砌小楼，地下室是证物间。最里面的「河岸·未登记」证物袋没人敢打开。",
+  "keywords": ["警局", "证物", "警长", "拘留"],
+  "tier": "background"
+}

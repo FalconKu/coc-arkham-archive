@@ -1,0 +1,9 @@
+{
+  "id": "miskatonic",
+  "name": "密斯卡托尼克大学",
+  "world_id": "arkham_1926",
+  "connected_to": ["advertiser", "orne_library"],
+  "content": "红砖校园。考古系地下室有一间不挂门牌的储藏室，登记簿上写着「待编目」。",
+  "keywords": ["大学", "密大", "考古系", "储藏室"],
+  "tier": "background"
+}

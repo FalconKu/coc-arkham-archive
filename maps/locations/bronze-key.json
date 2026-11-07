@@ -1,0 +1,9 @@
+{
+  "id": "bronze_key",
+  "name": "青铜钥匙",
+  "world_id": "arkham_1926",
+  "connected_to": ["central_dock", "graves_shop"],
+  "content": "仓库区地下的私酒馆，进门要对暗号。规矩：湿衣服挂在门外。",
+  "keywords": ["酒馆", "私酒", "暗号", "夜班"],
+  "tier": "background"
+}

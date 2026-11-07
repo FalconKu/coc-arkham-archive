@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "content_schema_version": 2,
+  "locale_schema_version": 1,
+  "default_locale": "zh-CN",
+  "supported_locales": ["zh-CN"],
+  "id": "coc-arkham-archive",
+  "name": "阿卡姆档案：1926 调查员资料集",
+  "version": "1.0.0",
+  "description": "为《克苏鲁的呼唤》7 版准备的 1926 年阿卡姆资料包：一座可直接开局的调查员城市、24 条资料册条目（人物、地点、组织、典籍与神话生物）以及一张八地点的关系地图。不含冒险剧本，供守秘人自组剧情。",
+  "plugin_type": "content-pack",
+  "license": "CC-BY-NC-4.0",
+  "config_schema": "config.schema.json",
+  "capabilities": ["content.world", "content.map"],
+  "permissions": ["content.read"],
+  "contributes": {
+    "world_templates": ["content/worlds/*.json"],
+    "lorebooks": ["content/lorebooks/*.json"],
+    "map_definitions": ["maps/definitions/*.json"],
+    "map_locations": ["maps/locations/*.json"]
+  },
+  "docs": "README.md"
+}

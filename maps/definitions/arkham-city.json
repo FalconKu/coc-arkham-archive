@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "id": "arkham-city",
+  "name": "阿卡姆城区",
+  "mode": "graph",
+  "worlds": [
+    "arkham_1926"
+  ],
+  "default": true,
+  "nodes": [
+    {
+      "location_ref": "central_dock",
+      "x": 0,
+      "y": 30
+    },
+    {
+      "location_ref": "bronze_key",
+      "x": -40,
+      "y": 10
+    },
+    {
+      "location_ref": "graves_shop",
+      "x": -15,
+      "y": -5
+    },
+    {
+      "location_ref": "precinct",
+      "x": 10,
+      "y": -5
+    },
+    {
+      "location_ref": "advertiser",
+      "x": 35,
+      "y": -5
+    },
+    {
+      "location_ref": "miskatonic",
+      "x": -30,
+      "y": -30
+    },
+    {
+      "location_ref": "orne_library",
+      "x": -5,
+      "y": -40
+    },
+    {
+      "location_ref": "witch_house",
+      "x": 30,
+      "y": -35
+    },
+    {
+      "location_ref": "riverside_steps",
+      "x": 20,
+      "y": -18
+    },
+    {
+      "location_ref": "dorm",
+      "x": -40,
+      "y": -12
+    },
+    {
+      "location_ref": "family_house",
+      "x": 42,
+      "y": 4
+    }
+  ],
+  "default_view": {
+    "x": 0,
+    "y": 0,
+    "zoom": 1
+  }
+}

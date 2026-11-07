@@ -1,0 +1,9 @@
+{
+  "id": "graves_shop",
+  "name": "格雷夫斯古董店",
+  "world_id": "arkham_1926",
+  "connected_to": ["bronze_key", "precinct"],
+  "content": "学院街 14 号。橱窗里的钟全停在 3:14，店后小间摊着半张地下水道图。",
+  "keywords": ["古董店", "钟", "拓片", "地图"],
+  "tier": "background"
+}

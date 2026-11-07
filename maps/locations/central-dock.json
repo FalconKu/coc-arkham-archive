@@ -1,0 +1,9 @@
+{
+  "id": "central_dock",
+  "name": "中央码头",
+  "world_id": "arkham_1926",
+  "connected_to": ["bronze_key", "witch_house"],
+  "content": "货运码头与候船棚。木桩下半截发黑，墙上钉着 1889 年的水位线。低潮时尽头露出水下的石阶。",
+  "keywords": ["码头", "候船棚", "台阶", "船"],
+  "tier": "background"
+}

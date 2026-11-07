@@ -1,0 +1,17 @@
+{
+  "id": "riverside_steps",
+  "name": "河床石阶",
+  "world_id": "arkham_1926",
+  "connected_to": [
+    "central_dock",
+    "witch_house"
+  ],
+  "content": "低水位露出的石砌台阶，方石无浆，接缝极细。往下走通往更深的水里。台阶上有新的淤泥脚印，方向朝上——有东西上来过，没下去。",
+  "keywords": [
+    "河床",
+    "台阶",
+    "石砌",
+    "低水位"
+  ],
+  "tier": "core"
+}

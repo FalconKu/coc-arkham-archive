@@ -1,0 +1,9 @@
+{
+  "id": "advertiser",
+  "name": "广告人报馆",
+  "world_id": "arkham_1926",
+  "connected_to": ["precinct", "miskatonic"],
+  "content": "加里森街的砖楼，一楼印刷机整夜作响。档案室缺了 1889 年 11 月那一册。",
+  "keywords": ["报馆", "档案", "合订本", "记者"],
+  "tier": "background"
+}

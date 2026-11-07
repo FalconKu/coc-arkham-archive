@@ -1,0 +1,17 @@
+{
+  "id": "dorm",
+  "name": "密大研究生宿舍",
+  "world_id": "arkham_1926",
+  "connected_to": [
+    "miskatonic",
+    "orne_library"
+  ],
+  "content": "失踪报童的姐姐住二楼。房间里有一叠没送完的报纸，日期停在 9 月 2 日。窗台上有半截蜡烛和一本翻开的笔记本，最后一页写着「台阶第七级有刻痕」。",
+  "keywords": [
+    "宿舍",
+    "报童",
+    "笔记",
+    "蜡烛"
+  ],
+  "tier": "background"
+}

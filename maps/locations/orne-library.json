@@ -1,0 +1,9 @@
+{
+  "id": "orne_library",
+  "name": "奥恩图书馆禁书区",
+  "world_id": "arkham_1926",
+  "connected_to": ["miskatonic", "witch_house"],
+  "content": "西翼地下，铁栅门后是恒温善本库。借阅要两位教授联署，登记用铅笔写。",
+  "keywords": ["图书馆", "禁书区", "善本", "登记簿"],
+  "tier": "background"
+}

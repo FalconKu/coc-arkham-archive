@@ -1,0 +1,17 @@
+{
+  "id": "family_house",
+  "name": "阿奇博尔德宅",
+  "world_id": "arkham_1926",
+  "connected_to": [
+    "advertiser",
+    "precinct"
+  ],
+  "content": "城东老宅，周四舞会。门厅挂着三代人的画像，第三代的脸被重新画过。管家认识所有客人，但不认识你们手里的信。地下室锁着，钥匙在管家腰上。",
+  "keywords": [
+    "宅邸",
+    "舞会",
+    "画像",
+    "管家"
+  ],
+  "tier": "background"
+}
