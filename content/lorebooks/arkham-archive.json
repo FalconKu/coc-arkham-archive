@@ -2,6 +2,7 @@
   "id": "arkham-archive",
   "name": "阿卡姆档案",
   "language": "zh-CN",
+  "description": "阿卡姆条目档案：12 条玩家可查的公开资料，16 条守秘人专属的幕后真相，供阿卡姆背景团速查。",
   "entries": [
     {
       "id": "npc-howard",
